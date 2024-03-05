@@ -976,8 +976,7 @@ orgs:
             - terrytangyuan
           release-managers:
             description: Kubeflow Release Team - Managers
-            members:
-              - rimolive
+            members: []
             privacy: closed
             repos:
               kubeflow: write
